@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Heart Disease Prediction App
 
 A machine learning web application that predicts whether a patient is at risk of heart disease based on medical attributes such as age, sex, blood pressure, cholesterol, chest pain type, and other heart-related indicators.
@@ -86,3 +87,7 @@ Then open the local URL shown in the terminal (usually http://localhost:8501).
 ## Example Use Case
 
 A doctor or medical analyst can enter patient details into the app to estimate the probability of heart disease risk in a quick, user-friendly interface.
+=======
+# Heartly
+This project is a small machine learning web app that predicts whether a patient is at risk of heart disease. It uses a Random Forest model trained on medical data and a Streamlit interface where users enter details such as age, blood pressure, cholesterol, and chest pain type to get a quick prediction of high or low risk.
+>>>>>>> cd423c1afa44a3baef476e04b26f36aaff403020
